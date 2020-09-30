@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.62073064.chunk.js",
-    "main.js.map": "/static/js/main.62073064.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a901de68.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a901de68.js.map",
-    "static/js/2.75de39f4.chunk.js": "/static/js/2.75de39f4.chunk.js",
-    "static/js/2.75de39f4.chunk.js.map": "/static/js/2.75de39f4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bf12a702bb5816c913799ba4d46d3c93.js": "/precache-manifest.bf12a702bb5816c913799ba4d46d3c93.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.75de39f4.chunk.js.LICENSE.txt": "/static/js/2.75de39f4.chunk.js.LICENSE.txt"
+    "main.js": "/ios-profile-themer/static/js/main.62073064.chunk.js",
+    "main.js.map": "/ios-profile-themer/static/js/main.62073064.chunk.js.map",
+    "runtime-main.js": "/ios-profile-themer/static/js/runtime-main.49de22a3.js",
+    "runtime-main.js.map": "/ios-profile-themer/static/js/runtime-main.49de22a3.js.map",
+    "static/js/2.75de39f4.chunk.js": "/ios-profile-themer/static/js/2.75de39f4.chunk.js",
+    "static/js/2.75de39f4.chunk.js.map": "/ios-profile-themer/static/js/2.75de39f4.chunk.js.map",
+    "index.html": "/ios-profile-themer/index.html",
+    "precache-manifest.49d585c789ae528836b30078b869df09.js": "/ios-profile-themer/precache-manifest.49d585c789ae528836b30078b869df09.js",
+    "service-worker.js": "/ios-profile-themer/service-worker.js",
+    "static/js/2.75de39f4.chunk.js.LICENSE.txt": "/ios-profile-themer/static/js/2.75de39f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a901de68.js",
+    "static/js/runtime-main.49de22a3.js",
     "static/js/2.75de39f4.chunk.js",
     "static/js/main.62073064.chunk.js"
   ]
